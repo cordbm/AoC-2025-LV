@@ -32,6 +32,10 @@
 			<Item Name="aoc-2025-d05-1.vi" Type="VI" URL="../d05/aoc-2025-d05-1.vi"/>
 			<Item Name="aoc-2025-d05-2.vi" Type="VI" URL="../d05/aoc-2025-d05-2.vi"/>
 		</Item>
+		<Item Name="d06" Type="Folder">
+			<Item Name="aoc-2025-d06-1.vi" Type="VI" URL="../d06/aoc-2025-d06-1.vi"/>
+			<Item Name="aoc-2025-d06-2.vi" Type="VI" URL="../d06/aoc-2025-d06-2.vi"/>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
